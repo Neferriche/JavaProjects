@@ -2,7 +2,7 @@ package lesson01.homework01;
 
 public class Homework01 {
     public static void main(String[] args) {
-        int a = 23, b = 8, c = 17, d = 9, e = 16, f = 7, g = -3;
+        int a = 23, b = 8, c = 18, d = 9, e = 16, f = 7, g = -3;
         String h = "Евгений";
         float myMathResult = myMath(a, b, c, d);
         boolean myCheckResult = myCheck(e, f);
