@@ -1,6 +1,5 @@
 package lesson03.homework03;
 
-import java.beans.PropertyEditorSupport;
 import java.util.Random;
 import java.util.Scanner;
 
