@@ -107,7 +107,7 @@ public class Homework03 {
         return field[cellY][cellX] == empty;
     }
 
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
         createField();
         viewField();
