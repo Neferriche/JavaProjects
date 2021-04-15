@@ -49,6 +49,7 @@ public class Competition {
             } else {
                 System.out.println(arr[i].species + " не смогла прыгнуть на " + dist3 + " м.");
             }
+
         }
     }
 }
