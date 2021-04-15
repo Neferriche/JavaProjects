@@ -6,8 +6,4 @@ public class Cat extends Animal {
         super(species, maxRun, maxSwim, maxJump);
     }
 
-    @Override
-    protected boolean swim(float dist) {
-        return false;
-    }
 }
