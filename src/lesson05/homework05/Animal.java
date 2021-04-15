@@ -25,5 +25,4 @@ public abstract class Animal {
     protected boolean jump(float height) {
         return (height <= maxJump);
     }
-
 }

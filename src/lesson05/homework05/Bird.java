@@ -5,4 +5,5 @@ public class Bird extends Animal{
     Bird(String species, float maxRun, float maxSwim, float maxJump) {
         super(species, maxRun, maxSwim, maxJump);
     }
+
 }
